@@ -20,7 +20,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 
 
-⚙️ Tech Stack
+⚙️ Tech Stack\n
 Next.js
 TypeScript
 Appwrite
@@ -30,7 +30,7 @@ React Hook Form
 Zod
 TailwindCSS
 Chart.js
-ShadCN
+ShadCN \n
 🔋 Features
 👉 Authentication: An ultra-secure SSR authentication with proper validations and authorization
 
